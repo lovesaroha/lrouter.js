@@ -1,5 +1,5 @@
 # lrouter Javascript Library
-lrouter is a lightweight javaScript library to provide an API for handling hash routes.
+lrouter is a lightweight javascript library to provide an API for handling hash routes.
 
 ## Installation
 
